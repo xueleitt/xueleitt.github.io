@@ -294,6 +294,7 @@ code {
  * clock css
  */
 .seconds {
+  color: transparent;
   width: 40px;
   height: 40px;
   top: 280px;
@@ -303,7 +304,9 @@ code {
   line-height: 40px;
   font-size: 18pt;
   border-radius: 50%;
-  background-color: rgba(81, 81, 81, 0.2); }
+  background-image: url("/my.JPG");
+  background-repeat: no-repeat;
+  background-position: center; }
 
 .minutes {
   width: 100px;
@@ -327,6 +330,9 @@ code {
   line-height: 280px;
   font-size: 133pt;
   border-radius: 50%;
+  background-image: url("/baby.JPG");
+  background-repeat: no-repeat;
+  background-position: center;
   background-color: rgba(181, 181, 181, 0.4); }
 
 .site-name {
