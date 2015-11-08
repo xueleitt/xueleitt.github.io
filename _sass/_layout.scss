@@ -226,9 +226,7 @@
     line-height: 40px;
     font-size: 18pt;
     border-radius: 50%;
-    background-image: url('/my.JPG');
-    background-repeat:no-repeat;
-    background-position:center;
+    background: url('/my.JPG') no-repeat center;
     //background-color: rgba(81, 81, 81, 0.2);
 }
 
@@ -255,10 +253,7 @@
     line-height: 280px;
     font-size: 133pt;
     border-radius: 50%;
-    background-image: url('/baby.JPG');
-    background-repeat:no-repeat;
-    background-position:center;
-    background-color: rgba(181, 181, 181, 0.4);
+    background: rgba(181, 181, 181, 0.4) url('/baby.JPG') no-repeat center;
 }
 
 .site-name {
