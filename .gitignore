@@ -2,3 +2,4 @@
 .sass-cache
 .idea/workspace.xml
 ._site
+.jekyll-metadata
