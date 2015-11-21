@@ -1,14 +1,30 @@
-# Creative Theme for Jekyll
+Agency Jekyll theme
+====================
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+# How to use
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+###Portfolio 
 
-## To use the Creative Theme template in your project
+Portfolio projects are in '/_posts'
 
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
+Images are in '/img/portfolio'
 
+###About
+
+Images are in '/img/about/'
+
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
+
+
+# Demo
+
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)
