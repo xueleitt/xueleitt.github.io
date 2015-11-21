@@ -100,6 +100,23 @@ h6 {
     75%  {opacity: 0.2; top:15px;}
     100% {opacity: 0; top:20px;}
 }
+.star1{
+    position: fixed;left: 100px;top: 150px;
+    font-size: 60px;
+}
+.star2{
+    position: fixed;right: 100px;top: 250px;
+    font-size: 40px;
+    text-shadow: 1px 1px 5px rgba(255,255,255,.5);
+}
+@keyframes star2
+{
+    0%   {opacity:0.8; top:0;}
+    25%  {opacity: 0.6; top:5px;}
+    50%  {opacity: 0.4; top:10px;}
+    75%  {opacity: 0.2; top:15px;}
+    100% {opacity: 0; top:20px;}
+}
 /*.bg-light-gray {*/
     /*background-color: #f7f7f7;*/
 /*}*/
