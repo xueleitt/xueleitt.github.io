@@ -112,20 +112,21 @@ h6 {
 }
 .star1{
     position: fixed;left: 100px;top: 150px;
-    font-size: 60px;
+    font-size: 30px;
+    animation: star2 1s linear infinite;
 }
 .star2{
     position: fixed;right: 100px;top: 250px;
-    font-size: 40px;
-    text-shadow: 10px 10px 5px rgba(255,255,255,.5);
+    font-size: 20px;
+    animation: star2 1s linear infinite;
 }
 @keyframes star2
 {
-    0%   {opacity:0.8; top:0;}
-    25%  {opacity: 0.6; top:5px;}
-    50%  {opacity: 0.4; top:10px;}
-    75%  {opacity: 0.2; top:15px;}
-    100% {opacity: 0; top:20px;}
+    0%   {text-shadow: 0 0 5px #ffffff}
+    25%  {text-shadow: 0 0 10px #ffffff}
+    50%  {text-shadow: 0 0 15px #ffffff}
+    75%  {text-shadow: 0 0 10px #ffffff}
+    100% {text-shadow: 0 0 5px #ffffff}
 }
 @keyframes STAR-MOVE {
     from {
