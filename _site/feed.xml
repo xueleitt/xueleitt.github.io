@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XueLei 的个人博客</title>
+    <description>Be the change you want to see in the world</description>
+    <link>http://github.top/</link>
+    <atom:link href="http://github.top/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Mac 工具</title>
+        <description>&lt;h4 id=&quot;android-studio&quot;&gt;1. Android Studio&lt;/h4&gt;
+
+&lt;h4 id=&quot;sourcetree&quot;&gt;2. SourceTree&lt;/h4&gt;
+
+&lt;h4 id=&quot;alfred2&quot;&gt;3. Alfred2&lt;/h4&gt;
+
+&lt;h4 id=&quot;iterm2&quot;&gt;4. iTerm2&lt;/h4&gt;
+
+&lt;h4 id=&quot;google&quot;&gt;5. Google&lt;/h4&gt;
+
+&lt;h4 id=&quot;evernote&quot;&gt;6. Evernote&lt;/h4&gt;
+
+&lt;h4 id=&quot;atom&quot;&gt;7. Atom&lt;/h4&gt;
+
+&lt;h4 id=&quot;charless&quot;&gt;8. charless&lt;/h4&gt;
+
+&lt;h4 id=&quot;sublime-text&quot;&gt;9. sublime-text&lt;/h4&gt;
+
+&lt;h4 id=&quot;android-sdk-ndk-gradle&quot;&gt;10. android sdk ndk gradle&lt;/h4&gt;
+
+&lt;h4 id=&quot;java-jdk&quot;&gt;11. java jdk&lt;/h4&gt;
+
+&lt;h4 id=&quot;git&quot;&gt;12. git&lt;/h4&gt;
+
+</description>
+        <pubDate>Sun, 13 Mar 2016 07:21:29 +0800</pubDate>
+        <link>http://github.top/android/2016/03/13/android-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
+        <guid isPermaLink="true">http://github.top/android/2016/03/13/android-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
+      </item>
+    
+      <item>
+        <title>第一篇博客</title>
+        <description>&lt;p&gt;开始了我的写作之旅&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Mar 2016 00:48:29 +0800</pubDate>
+        <link>http://github.top/other/2016/03/12/first-blog/</link>
+        <guid isPermaLink="true">http://github.top/other/2016/03/12/first-blog/</guid>
+      </item>
+    
+      <item>
+        <title>So, What is Jekyll?</title>
+        <description>&lt;p&gt;Jekyll is a tool for transforming your plain text into static websites and 
+blogs. It is simple, static, and blog-aware. Jekyll uses the 
+&lt;a href=&quot;http://docs.shopify.com/themes/liquid-basics&quot;&gt;Liquid&lt;/a&gt; templating
+language and has builtin &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;
+and &lt;a href=&quot;http://en.wikipedia.org/wiki/Textile_(markup_language)&quot;&gt;Textile&lt;/a&gt; support.&lt;/p&gt;
+
+&lt;p&gt;It also ties in nicely to &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Learn more about Jekyll on their &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jun 2014 20:32:18 +0800</pubDate>
+        <link>http://github.top/jekyll/pixyll/2014/06/09/so-what-is-jekyll/</link>
+        <guid isPermaLink="true">http://github.top/jekyll/pixyll/2014/06/09/so-what-is-jekyll/</guid>
+      </item>
+    
+  </channel>
+</rss>
