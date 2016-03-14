@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      Mac 无法连接Android手机
-date:       2016-03-14 12:31:19
-categories: tools
+summary:    Mac 无法连接Android手机
+categories: android
 ---
 
 1. 终端输入 system_profiler SPUSBDataType,查看usb连接信息,

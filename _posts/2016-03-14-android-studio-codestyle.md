@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      android studio code styles
-date:       2016-03-14 11:33:00
-categories: tools
+summary:    code styles
+categories: android
 ---
 
   ~/Library/Preference/AndroidStudio/codestyles/
