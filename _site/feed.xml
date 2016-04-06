@@ -7,14 +7,28 @@
     <atom:link href="http://github.top/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>intellij 激活方法</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;打开IDEA,点击register,选择license server , 输入&lt;a href=&quot;http://idea.qinxi1992.cn&quot;&gt;http://idea.qinxi1992.cn&lt;/a&gt;,点击OK就可以了&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Wed, 06 Apr 2016 00:00:00 +0800</pubDate>
+        <link>http://github.top/tools/2016/04/06/intellij-%E6%BF%80%E6%B4%BB/</link>
+        <guid isPermaLink="true">http://github.top/tools/2016/04/06/intellij-%E6%BF%80%E6%B4%BB/</guid>
+      </item>
+    
+      <item>
         <title>android studio code styles</title>
-        <description>&lt;p&gt;~/Library/Preference/AndroidStudio/codestyles/
-  替换相应文件&lt;/p&gt;
+        <description>&lt;ol&gt;
+  &lt;li&gt;~/Library/Preference/AndroidStudio/codestyles/
+替换相应文件&lt;/li&gt;
+  &lt;li&gt;打开file -&amp;gt; export settings 导出jar文件,然后在使用的地方导入即可.&lt;/li&gt;
+&lt;/ol&gt;
 
 </description>
-        <pubDate>Mon, 14 Mar 2016 00:00:00 +0800</pubDate>
-        <link>http://github.top/android/2016/03/14/android-studio-codestyle/</link>
-        <guid isPermaLink="true">http://github.top/android/2016/03/14/android-studio-codestyle/</guid>
+        <pubDate>Mon, 14 Mar 2016 19:33:00 +0800</pubDate>
+        <link>http://github.top/styles/2016/03/14/android-code-style/</link>
+        <guid isPermaLink="true">http://github.top/styles/2016/03/14/android-code-style/</guid>
       </item>
     
       <item>
@@ -75,23 +89,6 @@
         <pubDate>Sat, 12 Mar 2016 00:48:29 +0800</pubDate>
         <link>http://github.top/other/2016/03/12/first-blog/</link>
         <guid isPermaLink="true">http://github.top/other/2016/03/12/first-blog/</guid>
-      </item>
-    
-      <item>
-        <title>So, What is Jekyll?</title>
-        <description>&lt;p&gt;Jekyll is a tool for transforming your plain text into static websites and 
-blogs. It is simple, static, and blog-aware. Jekyll uses the 
-&lt;a href=&quot;http://docs.shopify.com/themes/liquid-basics&quot;&gt;Liquid&lt;/a&gt; templating
-language and has builtin &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;
-and &lt;a href=&quot;http://en.wikipedia.org/wiki/Textile_(markup_language)&quot;&gt;Textile&lt;/a&gt; support.&lt;/p&gt;
-
-&lt;p&gt;It also ties in nicely to &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Learn more about Jekyll on their &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Jun 2014 20:32:18 +0800</pubDate>
-        <link>http://github.top/jekyll/pixyll/2014/06/09/so-what-is-jekyll/</link>
-        <guid isPermaLink="true">http://github.top/jekyll/pixyll/2014/06/09/so-what-is-jekyll/</guid>
       </item>
     
   </channel>

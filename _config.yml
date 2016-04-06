@@ -17,7 +17,7 @@ google_analytics:
 # Optional features
 animated:           true
 show_related_posts: true
-show_post_footers:  true
+show_post_footers:  false
 
 # Social icons
 show_social_icons: true
